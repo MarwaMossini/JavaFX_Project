@@ -30,3 +30,5 @@ For the console version, run `Main.java`.
 
 ## Project Status
 An academic prototype built for coursework and local demonstration.
+
+Further testing and development can help address the current limitations.
