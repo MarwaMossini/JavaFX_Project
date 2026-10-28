@@ -1,6 +1,6 @@
 # Employee Management System
 
-A Java application designed in Spring 2026 for the Asian University for Women (AUW), developed as an Object-Oriented Programming group project.
+A Java application designed in Summer 2026 for the Asian University for Women (AUW), developed as an Object-Oriented Programming group project.
 
 ## Features
 - Add, view, search, update, and delete employees.
